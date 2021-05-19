@@ -63,4 +63,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Real-time-chat-app
 “#test2>>README.md
 
-echo “chatapp
+echo “Laravel (Backend PHP Framework)
+Laravel Sanctum (Authentication Package)
+Jetstream Inertia (Front/Back end user authentication scaffolding)
+Vue.js (Frontend Javascript Framework)
+
